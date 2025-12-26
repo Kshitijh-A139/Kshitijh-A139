@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/profile.jpg" width="180" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Kshitijh Agarwal</h1>
 <h3 align="center">Java developer strengthening fundamentals through DSA and backend development.</h3>
 
